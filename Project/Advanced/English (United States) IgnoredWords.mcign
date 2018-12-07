@@ -1,6 +1,7 @@
-<?xml version="1.0" encoding="utf-8"?>
+﻿<?xml version="1.0" encoding="utf-8"?>
 <IgnoredWordsDictionary>
-    <Word>Petco</Word>
-    <Word>asada</Word>
-    <Word>carne</Word>
+    <Word Comment="">Petco</Word>
+    <Word Comment="">asada</Word>
+    <Word Comment="">carne</Word>
+    <Word>Americus</Word>
 </IgnoredWordsDictionary>

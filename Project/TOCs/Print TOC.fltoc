@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?>
+﻿<?xml version="1.0" encoding="utf-8"?>
 <CatapultToc
   Version="1">
   <TocEntry
@@ -9,18 +9,12 @@
     PageLayout="/Content/Resources/PageLayouts/Title.flpgl" />
   <TocEntry
     Title="[%=System.LinkedTitle%]"
-    Link="/Content/PrintOnlyTopics/Copyright.htm"
-    BreakType="pageLayout"
-    StartSection="false"
-    PageLayout="/Content/Resources/PageLayouts/Copyright.flpgl" />
-  <TocEntry
-    Title="[%=System.LinkedTitle%]"
     Link="/Content/PrintOnlyTopics/PrintTOC.htm"
     BreakType="pageLayout"
     StartSection="false"
     PageLayout="/Content/Resources/PageLayouts/TOC.flpgl" />
   <TocEntry
-    Title="[%=System.LinkedTitle%]"
+    Title="All About Americus"
     Link="/Content/AllAboutSanDiego.htm"
     BreakType="chapter"
     StartSection="false"
@@ -34,7 +28,7 @@
     PageLayout="/Content/Resources/PageLayouts/Chapters.flpgl"
     PageType="firstright" />
   <TocEntry
-    Title="[%=System.LinkedTitle%]"
+    Title="Americus Attractions"
     Link="/Content/SanDiegoAttractions.htm"
     BreakType="chapter"
     StartSection="false"
@@ -42,7 +36,7 @@
     PageType="firstright"
     PageLayout="/Content/Resources/PageLayouts/Chapters.flpgl" />
   <TocEntry
-    Title="[%=System.LinkedTitle%]"
+    Title="Americus Cuisine"
     Link="/Content/SanDiegoCuisine.htm"
     BreakType="chapter"
     StartSection="false"
@@ -65,4 +59,10 @@
     PageNumberReset="continue"
     PageLayout="/Content/Resources/PageLayouts/Chapters.flpgl"
     AutoEndOnLeftPage="disabled" />
+  <TocEntry
+    Title="[%=System.LinkedTitle%]"
+    Link="/Content/PrintOnlyTopics/Copyright.htm"
+    BreakType="pageLayout"
+    StartSection="false"
+    PageLayout="/Content/Resources/PageLayouts/Copyright.flpgl"></TocEntry>
 </CatapultToc>

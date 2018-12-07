@@ -1,20 +1,34 @@
-<?xml version="1.0" encoding="utf-8"?>
+﻿<?xml version="1.0" encoding="utf-8"?>
 <CatapultToc
   Version="1">
   <TocEntry
-    Title="[%=System.LinkedTitle%]"
-    Link="/Content/AllAboutSanDiego.htm" />
-  <TocEntry
-    Title="[%=System.LinkedTitle%]"
-    Link="/Content/SanDiegoAttractions.htm"></TocEntry>
-  <TocEntry
-    Title="[%=System.LinkedTitle%]"
-    Link="/Content/SanDiegoCuisine.htm">
+    Title="All About Americus">
     <TocEntry
       Title="[%=System.LinkedTitle%]"
-      Link="/Content/Food.htm" />
+      Link="/Content/History.htm" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+    <TocEntry
+      Title="Attractions"
+      Link="/Content/SanDiegoAttractions.htm"></TocEntry>
     <TocEntry
       Title="[%=System.LinkedTitle%]"
       Link="/Content/Beer.htm" />
+    <TocEntry
+      Title="[%=System.LinkedTitle%]"
+      Link="/Content/Food.htm"></TocEntry>
+    <TocEntry
+      Title="[%=System.LinkedTitle%]"
+      Link="/Content/PrintOnlyTopics/Resources.htm"
+      BreakType="chapter"
+      PageType="firstright"
+      StartSection="false"
+      PageNumberReset="continue"
+      PageLayout="/Content/Resources/PageLayouts/Chapters.flpgl"
+      AutoEndOnLeftPage="disabled" />
+    <TocEntry
+      Title="[%=System.LinkedTitle%]"
+      Link="/Content/PrintOnlyTopics/Copyright.htm"
+      BreakType="pageLayout"
+      StartSection="false"
+      PageLayout="/Content/Resources/PageLayouts/Copyright.flpgl"></TocEntry>
   </TocEntry>
 </CatapultToc>
