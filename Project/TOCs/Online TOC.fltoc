@@ -4,19 +4,19 @@
   <TocEntry
     Title="All About Americus">
     <TocEntry
-      Title="[%=System.LinkedTitle%]"
+      Title="History"
       Link="/Content/History.htm" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
     <TocEntry
       Title="Attractions"
       Link="/Content/SanDiegoAttractions.htm"></TocEntry>
     <TocEntry
-      Title="[%=System.LinkedTitle%]"
+      Title="Beer"
       Link="/Content/Beer.htm" />
     <TocEntry
-      Title="[%=System.LinkedTitle%]"
+      Title="Food"
       Link="/Content/Food.htm"></TocEntry>
     <TocEntry
-      Title="[%=System.LinkedTitle%]"
+      Title="References"
       Link="/Content/PrintOnlyTopics/Resources.htm"
       BreakType="chapter"
       PageType="firstright"
@@ -25,7 +25,7 @@
       PageLayout="/Content/Resources/PageLayouts/Chapters.flpgl"
       AutoEndOnLeftPage="disabled" />
     <TocEntry
-      Title="[%=System.LinkedTitle%]"
+      Title="Copyright"
       Link="/Content/PrintOnlyTopics/Copyright.htm"
       BreakType="pageLayout"
       StartSection="false"

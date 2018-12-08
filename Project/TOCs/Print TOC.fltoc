@@ -2,13 +2,19 @@
 <CatapultToc
   Version="1">
   <TocEntry
-    Title="[%=System.LinkedTitle%]"
+    Title="Title Page"
     Link="/Content/PrintOnlyTopics/TitlePage.htm"
     BreakType="pageLayout"
     StartSection="false"
     PageLayout="/Content/Resources/PageLayouts/Title.flpgl" />
   <TocEntry
-    Title="[%=System.LinkedTitle%]"
+    Title="Copyright"
+    Link="/Content/PrintOnlyTopics/Copyright.htm"
+    BreakType="pageLayout"
+    StartSection="false"
+    PageLayout="/Content/Resources/PageLayouts/Copyright.flpgl"></TocEntry>
+  <TocEntry
+    Title="Print TOC"
     Link="/Content/PrintOnlyTopics/PrintTOC.htm"
     BreakType="pageLayout"
     StartSection="false"
@@ -44,14 +50,14 @@
     PageType="firstright"
     PageLayout="/Content/Resources/PageLayouts/Chapters.flpgl">
     <TocEntry
-      Title="[%=System.LinkedTitle%]"
+      Title="Food"
       Link="/Content/Food.htm" />
     <TocEntry
-      Title="[%=System.LinkedTitle%]"
+      Title="Beer"
       Link="/Content/Beer.htm" />
   </TocEntry>
   <TocEntry
-    Title="[%=System.LinkedTitle%]"
+    Title="References"
     Link="/Content/PrintOnlyTopics/Resources.htm"
     BreakType="chapter"
     PageType="firstright"
@@ -59,10 +65,4 @@
     PageNumberReset="continue"
     PageLayout="/Content/Resources/PageLayouts/Chapters.flpgl"
     AutoEndOnLeftPage="disabled" />
-  <TocEntry
-    Title="[%=System.LinkedTitle%]"
-    Link="/Content/PrintOnlyTopics/Copyright.htm"
-    BreakType="pageLayout"
-    StartSection="false"
-    PageLayout="/Content/Resources/PageLayouts/Copyright.flpgl"></TocEntry>
 </CatapultToc>
