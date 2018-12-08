@@ -35,27 +35,15 @@
     PageType="firstright" />
   <TocEntry
     Title="Americus Attractions"
-    Link="/Content/SanDiegoAttractions.htm"
+    Link="/Content/AmericusAttractions.htm"
     BreakType="chapter"
     StartSection="false"
     PageNumberReset="continue"
     PageType="firstright"
     PageLayout="/Content/Resources/PageLayouts/Chapters.flpgl" />
   <TocEntry
-    Title="Americus Cuisine"
-    Link="/Content/SanDiegoCuisine.htm"
-    BreakType="chapter"
-    StartSection="false"
-    PageNumberReset="continue"
-    PageType="firstright"
-    PageLayout="/Content/Resources/PageLayouts/Chapters.flpgl">
-    <TocEntry
-      Title="Food"
-      Link="/Content/Food.htm" />
-    <TocEntry
-      Title="Beer"
-      Link="/Content/Beer.htm" />
-  </TocEntry>
+    Title="Americus Food"
+    Link="/Content/Food.htm" />
   <TocEntry
     Title="References"
     Link="/Content/PrintOnlyTopics/Resources.htm"

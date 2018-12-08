@@ -8,10 +8,7 @@
       Link="/Content/History.htm" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
     <TocEntry
       Title="Attractions"
-      Link="/Content/SanDiegoAttractions.htm"></TocEntry>
-    <TocEntry
-      Title="Beer"
-      Link="/Content/Beer.htm" />
+      Link="/Content/AmericusAttractions.htm"></TocEntry>
     <TocEntry
       Title="Food"
       Link="/Content/Food.htm"></TocEntry>
